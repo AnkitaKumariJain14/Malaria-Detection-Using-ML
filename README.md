@@ -1,5 +1,5 @@
 # Malaria-Detection-Using-ML
-Machine Learning based model to detect Malaria using cell images. 
+Machine Learning based model to detect Malaria using cell images using traditional Image Processing Techniques. 
 
 ## Libraries Used:
   1.Scikit Learn
